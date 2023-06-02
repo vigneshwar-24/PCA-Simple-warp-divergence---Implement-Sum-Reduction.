@@ -725,8 +725,8 @@ int main(int argc, char **argv)
 ```
 ### kernel reduceUnrolling16
 ```
-Name : SAFA
-Reg No : 212220230040
+Name : Vigneshwar S
+Reg No : 212220230058
 
 #include "common.h"
 #include <cuda_runtime.h>
